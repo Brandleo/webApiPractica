@@ -26,6 +26,7 @@ namespace webApiPractica.Models
         public string estado {  get; set; }
         //olaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
         //pajin
+        //se viene la sexta
 
 
     }
