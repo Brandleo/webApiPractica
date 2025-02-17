@@ -25,7 +25,7 @@ namespace webApiPractica.Models
         public int estado_equipo_id { get; set; }
         public string estado {  get; set; }
         //olaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-
+        //pajin
 
 
     }
